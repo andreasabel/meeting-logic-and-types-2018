@@ -9,8 +9,8 @@ Thursday, 11 October 2018
 
 | Time | Program |
 |---|---|
-| 09.00 | _Bus departure at Johanneberg campus_
-| 10.30 | _Bus arrival at Salt & Sill_
+| 09.00 | _Bus departure at Nils Ericsson Terminalen_
+| 10.32 | _Bus arrival at Salt & Sill_
 | 11.15 | Talk
 | 12.15 | _Lunch_
 | 14.00 | Talks
@@ -30,7 +30,7 @@ Friday, 12 October 2018
 | 15.30 | Invited talks
 | 17.00 | _Break_
 | 18.00 | _Dinner_
-| 21.45 | _Bus departure_
+| 21.45 | _Chartered bus departure_
 
 Talks by (maybe not all of): Thierry, Ana, Andreas, Robin, Ulf, Jesper, Christian, Simon, Andrea, Victor
 

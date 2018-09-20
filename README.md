@@ -9,6 +9,7 @@ Thursday, 11 October 2018
 
 | Time | Program |
 |---|---|
+| 08.45 | _Meet at Nils Ericsson Terminalen_
 | 09.00 | _Bus departure at Nils Ericsson Terminalen_
 | 10.32 | _Bus arrival at Salt & Sill_
 | 11.15 | Talk

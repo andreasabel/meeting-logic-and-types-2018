@@ -35,7 +35,7 @@ Friday, 12 October 2018
 
 Talks by (maybe not all of): Thierry, Ana, Andreas, Robin, Ulf, Jesper, Christian, Simon, Andrea, Victor
 
-Invited talks by (maybe not all of): Aarne, Bengt, Eric, Per, Peter
+Invited talks by (maybe not all of): Aarne, Bengt, Erik, Per, Peter
 
 ## Division meeting
 

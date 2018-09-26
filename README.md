@@ -41,8 +41,9 @@ Friday, 12 October 2018
 | 18.00 | _Dinner_
 | 21.45 | _Chartered bus departure_
 
-Talks by (maybe not all of): Thierry, Andreas, Robin, Ulf, Jesper, Christian, Simon, Andrea
+Talks by (maybe not all of): Thierry, Andreas, Robin, Jesper, Christian, Simon, Andrea
 - Ana has indicated that she will not be giving a talk, but could run a discussion session.
+- Ulf has said he will not give a talk.
 
 Invited talks by (maybe not all of): Aarne, Bengt, Erik, Per, Peter
 

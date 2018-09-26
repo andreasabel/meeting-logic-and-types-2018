@@ -3,6 +3,14 @@
 - Date: 11-12 October 2018
 - Place: [Salt & Sill](http://www.saltosill.se/)
 
+## Travel
+
+The outward journey is using the Tjörn express from Nils Ericsson Terminalen (09:00) to Klädesholmen östra (10:32).
+We meet at Nils Ericsson Terminalen before 09:00; everyone will have to buy a bus ticket.
+Do not be alarmed that Google Maps does not see this connection: after Aröd (10:16), the same bus continues as a new tour; this is not seen by Google Maps, but you can check the connection in [Västtrafik Reseplaneraren](https://www.vasttrafik.se/reseplanering/reseplaneraren/).
+
+The return journey is via a chartered bus; tickets are unnecessary.
+
 ## Schedule (preliminary)
 
 Thursday, 11 October 2018
@@ -33,7 +41,8 @@ Friday, 12 October 2018
 | 18.00 | _Dinner_
 | 21.45 | _Chartered bus departure_
 
-Talks by (maybe not all of): Thierry, Ana, Andreas, Robin, Ulf, Jesper, Christian, Simon, Andrea, Victor
+Talks by (maybe not all of): Thierry, Andreas, Robin, Ulf, Jesper, Christian, Simon, Andrea
+- Ana has indicated that she will not be giving a talk, but could run a discussion session.
 
 Invited talks by (maybe not all of): Aarne, Bengt, Erik, Per, Peter
 
@@ -47,6 +56,6 @@ Possible topics for division meeting (maybe not all of these):
 
 ## Participants
 
-- Logic & Types: Peter, Thierry, Ana, Andreas, Robin, Ulf, Christian, Jesper, Simon, Andrea, Victor
+- Logic & Types: Peter, Thierry, Ana, Andreas, Robin, Ulf, Christian, Jesper, Simon, Andrea
 - Guests: Aarne, Bengt, Erik, Jan, Per, etc.
 

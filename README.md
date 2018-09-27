@@ -43,11 +43,9 @@ Friday, 12 October 2018
 | 18.00 | _Dinner_
 | 21.45 | _Chartered bus departure_
 
-Talks by (maybe not all of): Thierry, Andreas, Robin, Jesper, Christian, Simon, Andrea
+Contributed talks by (maybe not all of): Thierry, Andreas, Robin, Jesper, Christian, Simon, Andrea
 - Ana has indicated that she will not be giving a talk, but could run a discussion session.
 - Ulf has said he will not give a talk.
-
-Invited talks by (maybe not all of): Aarne, Bengt, Erik, Per, Peter
 
 ## Division meeting
 
@@ -59,6 +57,6 @@ Possible topics for division meeting (maybe not all of these):
 
 ## Participants
 
-- Logic & Types: Peter, Thierry, Ana, Andreas, Robin, Ulf, Christian, Jesper, Simon, Andrea
+- Logic & Types: Peter, Thierry, Ana, Andreas, Robin, Ulf, Christian, Jesper, Simon, Andrea, Fabian
 - Guests: Aarne, Bengt, Erik, Jan, Per, etc.
 

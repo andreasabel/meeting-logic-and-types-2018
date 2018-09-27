@@ -34,9 +34,11 @@ Friday, 12 October 2018
 | 09.00 | Talks
 | 12.00 | _Lunch_
 | 13.30 | __Workshop in honor of Jan Smith__
-| 13.30 | Invited talks
-| 15.00 | _Coffee_
-| 15.30 | Invited talks
+| 13.30 | Per Martin-Löf: Weyl’s attempted mediation between intuitionism and formalism
+| 14.30 | Erik Palmgren: From type theory to setoids and back
+| 15.15 | _Coffee_
+| 15.45 | Peter Dybjer: Realisability models of type theory
+| 16.15 | Aarne Ranta: Explainable AI and machine translation
 | 17.00 | _Break_
 | 18.00 | _Dinner_
 | 21.45 | _Chartered bus departure_

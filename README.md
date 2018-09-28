@@ -46,6 +46,7 @@ Friday, 12 October 2018
 Contributed talks by (maybe not all of): Thierry, Andreas, Robin, Jesper, Christian, Simon, Andrea
 - Ana has indicated that she will not be giving a talk, but could run a discussion session.
 - Ulf has said he will not give a talk.
+- Andreas: _Lessons learnt from implementing a runnable well-typed interpreter for C-- in Agda_
 
 ## Division meeting
 

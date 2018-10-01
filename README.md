@@ -42,8 +42,10 @@ Friday, 12 October 2018
 | 21.45 | _Chartered bus departure_
 
 Talks by (maybe not all of): Thierry, Andreas, Robin, Jesper, Christian, Simon, Andrea
+
 - Ana has indicated that she will not be giving a talk, but could run a discussion session.
 - Ulf has said he will not give a talk.
+- Jesper: "Visions from a distant land: Some observations on the Cedille proof assistant"
 
 Invited talks by (maybe not all of): Aarne, Bengt, Erik, Per, Peter
 

@@ -9,6 +9,9 @@ The outward journey is using the Tjörn express from Nils Ericsson Terminalen (0
 We meet at Nils Ericsson Terminalen before 09:00; everyone will have to buy a bus ticket.
 Do not be alarmed that Google Maps does not see this connection: after Aröd (10:16), the same bus continues as a new tour; this is not seen by Google Maps, but you can check the connection in [Västtrafik Reseplaneraren](https://www.vasttrafik.se/reseplanering/reseplaneraren/).
 
+Division members can have the their bus ticket reimbursed by the division via Primula.
+The fakultetsmedel "Project I/K-baerere" number for GU is 2078341 and for Chalmers is 3740334.
+
 The return journey is via a chartered bus; tickets are unnecessary.
 
 ## Schedule (preliminary)
@@ -43,7 +46,7 @@ Friday, 12 October 2018
 | 10.50 | Jesper Cockx, _Visions from a distant land: Some observations on the Cedille proof assistant_
 | 11.30 | Andrea Vezzosi, TBA
 | 12.10 | _Lunch_
-| 13.30 | __Workshop in honor of Jan Smith__ _(Chair: Kent Petterson)_
+| 13.30 | __Workshop in honor of Jan Smith__ _(Chair: Kent Petersson)_
 | 13.30 | Per Martin-Löf: Weyl’s attempted mediation between intuitionism and formalism
 | 14.30 | Erik Palmgren: From type theory to setoids and back
 | 15.00 | _Coffee_
@@ -67,5 +70,5 @@ Possible topics for division meeting (maybe not all of these):
 ## Participants
 
 - Logic & Types: Peter, Thierry, Ana, Andreas, Robin, Ulf, Christian, Jesper, Simon, Andrea, Fabian, Victor
-- Guests: Aarne Ranta, Erik Palmgren, Kent Petterson, Jan Smith, Micheal Hedberg, Per Martin-Löf, Peter Ljunglöf, ...
+- Guests: Aarne Ranta, Erik Palmgren, Kent Petersson, Jan Smith, Micheal Hedberg, Per Martin-Löf, Peter Ljunglöf, ...
 

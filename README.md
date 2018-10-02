@@ -20,30 +20,40 @@ Thursday, 11 October 2018
 | 08.45 | _Meet at Nils Ericsson Terminalen_
 | 09.00 | _Bus departure at Nils Ericsson Terminalen_
 | 10.32 | _Bus arrival at Salt & Sill_
-| 11.15 | Talk
-| 12.15 | _Lunch_
-| 14.00 | Talks
+| 11.15 | Thierry Coquand, TBA
+| 12.00 | _Lunch_
+| 13.30 | Simon  Huber, TBA
+| 14.10 | Christian Sattler, TBA
+| 14.50 | Fabian Ruch, TBA
 | 15.30 | _Coffee_
-| 16.00 | Division meeting (ca. 1h30)
+| 16.00 | __Division meeting__ (ca. 1h30)
+| 16.00 | The Logic & Verification track in the MPALG master program (discussion lead: Ana Bove)
+| 16.30 | Funding (prepared by Ulf Norell?)
+| 17.00 | Long-term vision, others
+| 17.30 | _Break_
 | 19.00 | _Dinner_
 
 Friday, 12 October 2018
 
 | Time | Program |
 |---|---|
-| 09.00 | Talks
-| 12.00 | _Lunch_
-| 13.30 | __Workshop in honor of Jan Smith__
+| 09.00 | Robin Adams, TBA
+| 09.40 | Andreas Abel, _Lessons learnt from implementing a runnable well-typed interpreter for C-- in Agda_
+| 10.20 | _Coffee_
+| 10.50 | Jesper Cockx, _Visions from a distant land: Some observations on the Cedille proof assistant_
+| 11.30 | Andrea Vezzosi, TBA
+| 12.10 | _Lunch_
+| 13.30 | __Workshop in honor of Jan Smith__ _(Chair: Kent Petterson)_
 | 13.30 | Per Martin-Löf: Weyl’s attempted mediation between intuitionism and formalism
 | 14.30 | Erik Palmgren: From type theory to setoids and back
-| 15.15 | _Coffee_
-| 15.45 | Peter Dybjer: Realisability models of type theory
+| 15.00 | _Coffee_
+| 15.30 | Peter Dybjer: Realisability models of type theory
 | 16.15 | Aarne Ranta: Explainable AI and machine translation
 | 17.00 | _Break_
 | 18.00 | _Dinner_
 | 21.45 | _Chartered bus departure_
 
-Contributed talks by (maybe not all of): Thierry, Andreas, Robin, Jesper, Christian, Simon, Andrea
+Contributed talks by (maybe not all of): Thierry, Andreas, Robin, Jesper, Christian, Simon, Andrea, Fabian
 
 - Ana has indicated that she will not be giving a talk, but could run a discussion session.
 - Ulf has said he will not give a talk.
@@ -61,5 +71,5 @@ Possible topics for division meeting (maybe not all of these):
 ## Participants
 
 - Logic & Types: Peter, Thierry, Ana, Andreas, Robin, Ulf, Christian, Jesper, Simon, Andrea, Fabian, Victor
-- Guests: Aarne, Erik, Jan, Per, etc.
+- Guests: Aarne, Erik, Kent, Jan, Per, etc.
 

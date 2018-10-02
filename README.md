@@ -57,8 +57,6 @@ Contributed talks by (maybe not all of): Thierry, Andreas, Robin, Jesper, Christ
 
 - Ana has indicated that she will not be giving a talk, but could run a discussion session.
 - Ulf has said he will not give a talk.
-- Andreas: _Lessons learnt from implementing a runnable well-typed interpreter for C-- in Agda_
-- Jesper: _Visions from a distant land: Some observations on the Cedille proof assistant_
 
 ## Division meeting
 

@@ -66,6 +66,7 @@ Possible topics for division meeting (maybe not all of these):
 
 - Master thesis brainstorming session
 - Funding: Review of funding sources, planning of applications 2018/2019.
+  Possible funding sources: VR, SSF, Vinnova, KAW, EU (Fetopen, ERC fellowship) (ask Ulf about European funding sources), ...
 - General discussion about future research directions in Logic & Types
 
 ## Participants

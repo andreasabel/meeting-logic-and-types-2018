@@ -55,11 +55,6 @@ Friday, 12 October 2018
 
 The lecture room has beamer and whiteboards.
 
-Contributed talks by (maybe not all of): Thierry, Andreas, Robin, Jesper, Christian, Simon, Andrea, Fabian
-
-- Ana has indicated that she will not be giving a talk, but could run a discussion session.
-- Ulf has said he will not give a talk.
-
 ## Division meeting
 
 Possible topics for division meeting (maybe not all of these):

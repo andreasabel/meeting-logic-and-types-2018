@@ -60,6 +60,6 @@ Possible topics for division meeting (maybe not all of these):
 
 ## Participants
 
-- Logic & Types: Peter, Thierry, Ana, Andreas, Robin, Ulf, Christian, Jesper, Simon, Andrea, Fabian
-- Guests: Aarne, Bengt, Erik, Jan, Per, etc.
+- Logic & Types: Peter, Thierry, Ana, Andreas, Robin, Ulf, Christian, Jesper, Simon, Andrea, Fabian, Victor
+- Guests: Aarne, Erik, Jan, Per, etc.
 

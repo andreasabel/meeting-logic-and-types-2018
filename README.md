@@ -23,7 +23,7 @@ Thursday, 11 October 2018
 | 08.45 | _Meet at Nils Ericsson Terminalen_
 | 09.00 | _Bus departure at Nils Ericsson Terminalen_
 | 10.32 | _Bus arrival at Salt & Sill_
-| 11.15 | Thierry Coquand, TBA
+| 11.15 | Thierry Coquand, Canonicity and normalisation proof for dependent type theory
 | 12.00 | _Lunch_
 | 13.30 | Simon Huber, TBA
 | 14.10 | Christian Sattler, TBA

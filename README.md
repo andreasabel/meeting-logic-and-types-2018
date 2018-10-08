@@ -26,14 +26,13 @@ Thursday, 11 October 2018
 | 11.15 | Thierry Coquand, Canonicity and normalisation proof for dependent type theory
 | 12.00 | _Lunch_
 | 13.30 | Simon Huber, TBA
-| 14.10 | Christian Sattler, TBA
-| 14.50 | Fabian Ruch, TBA
-| 15.30 | _Coffee_
-| 16.00 | __Division meeting__ (ca. 1h30)
-| 16.00 | The Logic & Verification track in the MPALG master program (discussion lead: Ana Bove)
-| 16.30 | Funding (prepared by Ulf Norell?!)
-| 17.00 | Long-term vision, other things
-| 17.30 | _Break_
+| 14.15 | Christian Sattler, TBA
+| 15.00 | _Coffee_
+| 15.45 | __Division meeting__ (ca. 1h30)
+| 15.45 | The Logic & Verification track in the MPALG master program (discussion lead: Ana Bove)
+| 16.15 | Funding (prepared by Ulf Norell?!)
+| 16.45 | Long-term vision, other things
+| 17.15 | _Break_
 | 19.00 | _Dinner_
 
 Friday, 12 October 2018

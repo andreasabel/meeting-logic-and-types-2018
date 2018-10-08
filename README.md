@@ -27,7 +27,7 @@ Thursday, 11 October 2018
 | 12.00 | _Lunch_
 | 13.30 | Simon Huber, TBA
 | 14.10 | Christian Sattler, TBA
-| 14.50 | Fabian Ruch, TBA
+| 14.50 | Andrea Vezzosi, TBA
 | 15.30 | _Coffee_
 | 16.00 | __Division meeting__ (ca. 1h30)
 | 16.00 | The Logic & Verification track in the MPALG master program (discussion lead: Ana Bove)
@@ -41,11 +41,10 @@ Friday, 12 October 2018
 | Time | Program |
 |---|---|
 | 09.00 | Robin Adams, TBA
-| 09.40 | Andreas Abel, _Lessons learnt from implementing a runnable well-typed interpreter for C-- in Agda_
-| 10.20 | _Coffee_
-| 10.50 | Jesper Cockx, _Visions from a distant land: Some observations on the Cedille proof assistant_
-| 11.30 | Andrea Vezzosi, TBA
-| 12.10 | _Lunch_
+| 09.45 | Andreas Abel, _Lessons learnt from implementing a runnable well-typed interpreter for C-- in Agda_
+| 10.30 | _Coffee_
+| 11.15 | Jesper Cockx, _Visions from a distant land: Some observations on the Cedille proof assistant_
+| 12.00 | _Lunch_
 | 13.30 | __Workshop in honor of Jan Smith__ _(Chair: Kent Petersson)_
 | 13.30 | Per Martin-Löf: Weyl’s attempted mediation between intuitionism and formalism
 | 14.30 | Erik Palmgren: From type theory to setoids and back

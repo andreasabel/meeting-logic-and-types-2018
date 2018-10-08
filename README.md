@@ -52,6 +52,7 @@ Friday, 12 October 2018
 | 15.30 | Peter Dybjer: Realisability models of type theory
 | 16.15 | Aarne Ranta: Explainable AI and machine translation
 | 17.00 | _Break_
+| 17.30 | _Drink_
 | 18.00 | _Dinner_
 | 21.45 | _Chartered bus departure_
 

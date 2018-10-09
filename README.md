@@ -25,7 +25,7 @@ Thursday, 11 October 2018
 | 10.32 | _Bus arrival at Salt & Sill_
 | 11.15 | Thierry Coquand, Canonicity and normalisation proof for dependent type theory
 | 12.00 | _Lunch_
-| 13.30 | Christian Sattler, TBA
+| 13.30 | Christian Sattler, Introduction to semisimplicial homotopy theory
 | 14.15 | Andrea Vezzosi, TBA
 | 15.00 | _Coffee_
 | 15.45 | __Division meeting__ (ca. 1h30)

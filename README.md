@@ -23,10 +23,10 @@ Thursday, 11 October 2018
 | 08.45 | _Meet at Nils Ericsson Terminalen_
 | 09.00 | _Bus departure at Nils Ericsson Terminalen_
 | 10.32 | _Bus arrival at Salt & Sill_
-| 11.15 | Thierry Coquand, Canonicity and normalisation proof for dependent type theory
+| 11.15 | Thierry Coquand, _Canonicity and normalisation proof for dependent type theory_
 | 12.00 | _Lunch_
-| 13.30 | Christian Sattler, Introduction to semisimplicial homotopy theory
-| 14.15 | Andrea Vezzosi, Semantics of Coinductive Types in Cubical Agda
+| 13.30 | Christian Sattler, _Introduction to semisimplicial homotopy theory_
+| 14.15 | Andrea Vezzosi, _Semantics of coinductive types in Cubical Agda_
 | 15.00 | _Coffee_
 | 15.45 | __Division meeting__ (ca. 1h30)
 | 15.45 | The Logic & Verification track in the MPALG master program (discussion lead: Ana Bove)
@@ -39,7 +39,7 @@ Friday, 12 October 2018
 
 | Time | Program |
 |---|---|
-| 09.00 | Robin Adams, TBA
+| 09.00 | Robin Adams, _A type theory for quantum computing_
 | 09.45 | Andreas Abel, _Lessons learnt from implementing a runnable well-typed interpreter for C-- in Agda_
 | 10.30 | _Coffee_
 | 11.15 | Jesper Cockx, _Visions from a distant land: Some observations on the Cedille proof assistant_

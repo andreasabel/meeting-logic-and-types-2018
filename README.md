@@ -26,7 +26,7 @@ Thursday, 11 October 2018
 | 11.15 | Thierry Coquand, Canonicity and normalisation proof for dependent type theory
 | 12.00 | _Lunch_
 | 13.30 | Christian Sattler, Introduction to semisimplicial homotopy theory
-| 14.15 | Andrea Vezzosi, TBA
+| 14.15 | Andrea Vezzosi, Semantics of Coinductive Types in Cubical Agda
 | 15.00 | _Coffee_
 | 15.45 | __Division meeting__ (ca. 1h30)
 | 15.45 | The Logic & Verification track in the MPALG master program (discussion lead: Ana Bove)

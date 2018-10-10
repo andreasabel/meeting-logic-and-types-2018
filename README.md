@@ -14,7 +14,7 @@ The fakultetsmedel "Project I/K-baerere" number for GU is 2078341 and for Chalme
 
 The return journey is via a chartered bus; tickets are unnecessary.
 
-## Schedule (preliminary)
+## Schedule
 
 Thursday, 11 October 2018
 

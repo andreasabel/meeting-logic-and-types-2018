@@ -30,7 +30,7 @@ Thursday, 11 October 2018
 | 15.00 | _Coffee_
 | 15.45 | __Division meeting__ (ca. 1h30)
 | 15.45 | The Logic & Verification track in the MPALG master program (discussion lead: Ana Bove)
-| 16.15 | Funding (prepared by Ulf Norell?!)
+| 16.15 | Funding (discussion lead: Ulf Norell)
 | 16.45 | Long-term vision, other things
 | 17.15 | _Break_
 | 19.00 | _Dinner_
